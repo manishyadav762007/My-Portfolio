@@ -1939,9 +1939,6 @@ dialog .dialog-note {
     padding-left: 10px;
     padding-right: 10px;
   }
-  .html{
-    width: 110%;
-  }
   .site-header {
     height: 70px;
   }
@@ -2409,9 +2406,7 @@ dialog .dialog-note {
     padding-left: 10px;
     padding-right: 10px;
   }
-  .html{
-    width: 150%;
-  }
+  
   .site-header {
     height: 70px;
   }
